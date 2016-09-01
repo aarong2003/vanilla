@@ -11,10 +11,10 @@
  */
 $ThemeInfo['mobile'] = array(
     'Name' => 'Mobile 2012',
-    'Description' => "A simplified theme made to target mobile browsers.",
-    'Version' => '1.1.4',
-    'Author' => "Mark O'Sullivan",
-    'AuthorEmail' => 'mark@vanillaforums.com',
-    'AuthorUrl' => 'http://vanillaforums.com',
+    'Description' => "DEBATEISLAND.COM MOBILE.",
+    'Version' => '1.0',
+    'Author' => "AGG",
+    'AuthorEmail' => 'aarongolbin@debateisland.com',
+    'AuthorUrl' => 'http://www.debateisland.com',
     'IsMobile' => true
 );
